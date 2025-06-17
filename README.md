@@ -8,7 +8,7 @@ This project is a full-stack Python application that retrieves real-time cryptoc
 - **Data Export Options**:
   - CSV format (`crypto_data.csv`)
   - Excel spreadsheet (`crypto_data.xlsx`)
-- Price Visualization**: Generates a real-time bar chart using `matplotlib` to display price comparisons.
+- **Price Visualization**: Generates a real-time bar chart using `matplotlib` to display price comparisons.
 - **Graphical User Interface (GUI)**:
   - Built using `Tkinter` for a clean, native desktop experience
   - Displays name, price, volume, 24h % change, and timestamp
